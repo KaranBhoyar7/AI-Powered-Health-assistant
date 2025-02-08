@@ -7,7 +7,7 @@ This project leverages state-of-the-art AI models to assist users with healthcar
 
 ## 🚀 Key Features
 - **Real-time Healthcare Query Responses**: Get answers to general health questions instantly.
-- **AI-Powered Insights**: Uses LLaMA 3.2B for reliable and professional responses.
+- **AI-Powered Insights**: Uses llama3.2:3b for reliable and professional responses.
 - **Chat History Support**: Maintains conversational context.
 - **User-Friendly Interface**: Built using Streamlit for ease of interaction.
 
@@ -15,7 +15,7 @@ This project leverages state-of-the-art AI models to assist users with healthcar
 
 ## ⚙️ Technologies Used
 - **Streamlit**: Interactive and responsive web UI.
-- **Ollama**: Integration with LLaMA 3.2B AI model.
+- **Ollama**: Integration with llama3.2:3b AI model.
 - **llama3.2:3b**: Natural language model optimized for healthcare scenarios.
 
 ---
